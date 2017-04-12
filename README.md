@@ -1,2 +1,2 @@
 # my.ps1
-test stuff
+This is simply a base repo for my test scripts
